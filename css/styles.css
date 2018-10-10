@@ -1,0 +1,16 @@
+img {
+    box-shadow: 5px 5px #904e1e;
+}
+
+.corgi-gallery {
+    box-shadow: 3px 3px #00ff00;
+}
+
+.small {
+    height: 150px
+}
+
+#special-pic {
+    box-shadow: 3px 3px yellow;
+    height: 200px
+}
