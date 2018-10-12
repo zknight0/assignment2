@@ -14,3 +14,9 @@ img {
     box-shadow: 3px 3px yellow;
     height: 200px
 }
+
+
+#logo {
+    box box-shadow: none;
+    height: 60;
+}
